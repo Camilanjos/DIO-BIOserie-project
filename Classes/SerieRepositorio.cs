@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using BIO.Series.Interfaces;
 
-namespace DIO.Series
+namespace BIO.Series
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{
