@@ -1,4 +1,4 @@
-namespace DIO.Series
+namespace BIO.Series
 {
     public abstract class EntidadeBase
     {
