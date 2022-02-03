@@ -1,19 +1,17 @@
-namespace DIO.Series
+namespace BIO.Series
 {
 	public enum Genero
 	{
-		Acao = 1,
-		Aventura = 2,
-		Comedia = 3,
+		Animais = 1,
+		Plantas = 2,
+		Ecossistemas = 3,
 		Documentario = 4,
-		Drama = 5,
-		Espionagem = 6,
-		Faroeste = 7,
-		Fantasia = 8,
-		Ficcao_Cientifica = 9,
-		Musical = 10,
-		Romance = 11,
-		Suspense = 12,
-		Terror = 13
+		Frutas = 5,
+		Verduras = 6,
+		Legumes = 7,
+		Biomas = 8,
+		Cientistas = 9,
+		Flora = 10,
+		
 	}
 }
