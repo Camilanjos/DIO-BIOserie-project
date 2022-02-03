@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using DIO.Series.Interfaces;
+using BIO.Series.Interfaces;
 
 namespace DIO.Series
 {
