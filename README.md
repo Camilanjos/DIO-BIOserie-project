@@ -23,3 +23,35 @@ Eliézer Zarpelão 📚
 ### Ambiente de Desenvolvimento:  📍
 
 `.NET VERSÃO 6.0101`    `C#`  `VISUAL STUDIO CODE`
+
+##
+
+Lista de classes ditas no código:
+
+1. EntidadeBase;
+
+2. Serie;
+
+3. SerieRepositorio
+
+4. Genero;
+
+5. IRepositorio;
+
+6. Program.
+
+Métodos mais importantes da classe Program para regra de negócio:
+
+1. Listar série;
+
+2. Inserir nova série;
+
+3. Atualizar série;
+
+4. Excluir série;
+
+5. Visualizar série;
+
+6. "C" Limpar Tela;
+
+7. "X" Sair do programa.
